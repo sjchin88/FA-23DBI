@@ -6,7 +6,7 @@
 - graphs (pdf)
     - https://github.com/danielyhbi/cs6650-DistributedSystems/blob/main/homework1/report/hw1_plot.pdf
 - client part 1
-    - https://github.com/danielyhbi/cs6650-DistributedSystems/tree/main/homework1/client
+    - https://github.com/danielyhbi/cs6650-DistributedSystems/tree/main/homework1/client-no-log%20(part%201)
 - client part 2
     - https://github.com/danielyhbi/cs6650-DistributedSystems/tree/main/homework1/client
 
