@@ -10,8 +10,6 @@ print(df.columns)
 # df['timestamp'] = pd.to_datetime(df['timestamp']).astype(int) // 10**6
 
 # # Print the first few rows of the DataFrame to verify the data is loaded correctly
-# print(df.head())
-
 min_start_time = min(df['timestamp'])
 
 print(min_start_time)

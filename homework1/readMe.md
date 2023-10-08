@@ -2,9 +2,13 @@
 
 ## 1. URL to the repo
 - main repo
+    - https://github.com/danielyhbi/cs6650-DistributedSystems/tree/main/homework1
 - graphs (pdf)
+    - https://github.com/danielyhbi/cs6650-DistributedSystems/blob/main/homework1/report/hw1_plot.pdf
 - client part 1
+    - https://github.com/danielyhbi/cs6650-DistributedSystems/tree/main/homework1/client
 - client part 2
+    - https://github.com/danielyhbi/cs6650-DistributedSystems/tree/main/homework1/client
 
 ## 2. description of my client design
 
