@@ -15,3 +15,21 @@ buildNumber.properties
 .project
 # JDT-specific (Eclipse Java Development Tools)
 .classpath
+# IntelliJ
+*/.idea/
+/.idea/
+# Generated files from my laptop
+*/out/
+*/.vscode
+*/go-server-server-generated/*
+
+# personal files
+aws_ec2_login.txt
+Config
+danyhbi_key.pem
+/in-class-example
+/noLogs
+*/.DS_Store
+.DS_Store
+*.csv
+/lab*
